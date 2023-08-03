@@ -1,0 +1,2 @@
+# chimpy
+Discord Moderation Bot
