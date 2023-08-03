@@ -12,9 +12,9 @@ Chimpy is a powerful and easy-to-use Discord bot that handles all your server mo
 - **Tickets:** Easy support ticket creation and management.
 
 ### Economy Games 🎰
+- **Economy System:** Earn, spend, and manage your virtual currency within the server.
 - **Roulette:** Spin the wheel and try your luck!
 - **Casino Games:** Enjoy various casino-style games with virtual currency.
-- **Economy System:** Earn, spend, and manage your virtual currency within the server.
 
 ### Dog GIFs 🐶
 - **Random Dog GIFs:** Brighten up your server with random and cute dog GIFs at any time!
