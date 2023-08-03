@@ -15,6 +15,8 @@ export const client = new ExtendedClient({
     ]
 });
 
+const token = process.env.CHIMPY_TOKEN;
+
 // connect to mongodb with ip not localhost
 mongoose.connect('mongodb://127.0.0.1:27017/chimpy').then(() => {
     console.log('connected to mongodb');
@@ -138,4 +140,4 @@ client.on('messageCreate', async (message) => {
     }
 });
 
-client.login(config.BOT_TOKEN);
+client.login(token);
