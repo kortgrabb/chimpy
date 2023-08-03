@@ -22,10 +22,10 @@ Chimpy is a powerful and easy-to-use Discord bot that handles all your server mo
 ## Commands 📜
 
 ### Moderation
-- `,mute <user>` - Mute a user.
+- `,mute <user> <length> <reason>` - Mute a user.
 - `,kick <user>` - Kick a user from the server.
-- `,ban <user>` - Ban a user from the server.
-- `,logs` - View server logs.
+- `,ban <user> <reason>` - Ban a user from the server.
+- `,log set <channelid>` Set the channel to log to
 - `,ticket <issue>` - Create a support ticket.
 
 ### Economy
